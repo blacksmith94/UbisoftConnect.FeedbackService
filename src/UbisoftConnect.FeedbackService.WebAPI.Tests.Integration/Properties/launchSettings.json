@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Ubisoft.FeedbackService.WebAPI.Tests.Integration": {
+      "commandName": "Project"
+    }
+  }
+}

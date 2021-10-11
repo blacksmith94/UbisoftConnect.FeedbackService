@@ -1,0 +1,23 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/Ubisoft.FeedbackService.WebAPI",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:24443/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "FeedbackService.WebAPI": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "$(Configuration)"
+      },
+      "applicationUrl": "http://localhost:5001"
+    }
+  }
+}
